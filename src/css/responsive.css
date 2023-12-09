@@ -7,4 +7,8 @@
         font-size: 21px;
         padding: 26px;
     }
+
+    .advice .divider {
+        width: 100%;
+    }
 }
